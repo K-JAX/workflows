@@ -9,8 +9,12 @@
   "author": "Kevin Garubba",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
     "gulp-coffee": "^2.3.4",
     "gulp-concat": "^2.6.1",
-    "gulp-util": "^3.0.8"
+    "gulp-util": "^3.0.8",
+    "install": "^0.10.2",
+    "jquery": "^3.2.1",
+    "mustache": "^2.3.0"
   }
 }
