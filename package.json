@@ -15,9 +15,11 @@
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.0.0",
     "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.0.0",
     "gulp-minify-html": "^1.0.6",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
+    "imagemin-pngcrush": "^5.1.0",
     "install": "^0.10.2",
     "jquery": "^3.2.1",
     "mustache": "^2.3.0"
